@@ -1,2 +1,4 @@
 # Internal-rate-of-return-
-Try to find IRR by bisection and newton method.
+假定有一個投資計畫，該投資計畫可在現在獲得9702元收益
+在第一期結束時需支付19700元，第二期計畫結束時，可再獲得10000元
+撰寫程式使用二分法與Newton method求內部收益率
